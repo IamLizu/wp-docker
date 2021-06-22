@@ -51,7 +51,7 @@ You will find commented out plugin, theme installation in the `docker-compose.ym
 
 This is not production ready, I prefer this one for local development only.
 
-My [`docker-compose.yml`](https://github.com/IamLizu/wp-docker/blob/main/docker-compose.yml) is an improved version of [Brad's `docker-compose.yml` for WordPress](https://gist.github.com/bradtraversy/faa8de544c62eef3f31de406982f1d42). (Kudos to [Brad Traversy](https://github.com/bradtraversy/) for his contributions to the community.)
+My [`docker-compose.yml`](https://github.com/IamLizu/wp-docker/blob/master/docker-compose.yml) is an improved version of [Brad's `docker-compose.yml` for WordPress](https://gist.github.com/bradtraversy/faa8de544c62eef3f31de406982f1d42). (Kudos to [Brad Traversy](https://github.com/bradtraversy/) for his contributions to the community.)
 
 As of creating this repo, if you use Brad's version of the file, you may face database connection issue if your database name is anything else that `wordpress`.
 
